@@ -4,7 +4,7 @@ Nothing major, just a small project to learn the basics of web development and [
 
 ## What this is
 
-This RestAPI provides a 2D array of random booleans (represented as one's and zeros) based on the "columns" and "rows" specified in the URL.
+This RestAPI provides a 2D array of random booleans (represented as one's and zeros) based on the ***columns*** and ***rows*** specified in the URL.
 
 ## Build Instructions
 Requirements: [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
