@@ -25,7 +25,7 @@ fn run(columns: u16, rows: u16) -> String {
 }
 #[get("/")]
 fn home() -> String {
-    format!("Use the form columns/row in the address")
+    "Use the form columns/row in the address".to_string()
 }
 
 #[launch]
